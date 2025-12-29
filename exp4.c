@@ -1,6 +1,6 @@
 /*Coding challenge 4:
 
-Design a c function to split a circular singly linked list into two equal halves when the list contains even number of */
+Design a c function to split a circular singly linked list into two equal halves when the list contains even number of elements*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -63,3 +63,4 @@ int main() {
     display(head2);
     return 0;
 }
+
